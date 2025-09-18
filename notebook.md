@@ -2,8 +2,8 @@
 
 | Term | Definition and Description | Base Structure | Real Life Example | App Example |
 |------|----------------------------|----------------|-------------------|-------------|
-| main()     | A function that runs when your app starts. It tells Flutter what app to show. | `void main() => runApp(MyApp());` |  |  |
-| MaterialApp   | The widget that sets up your whole app’s look and navigation. | `MaterialApp(...)` |  |  |
+| main()     | A function that runs when your app starts. It tells Flutter what app to show. | `void main() => runApp(MyApp());` | you launch a smartphone app |  |
+| MaterialApp   | The widget that sets up your whole app’s look and navigation. | `MaterialApp(...)` | layout and colors of a phone’s home screen |  |
 | Scaffold     | A widget that gives you the basic layout: background, navigation bar, floating button, etc. | `Scaffold(...)` |  |  |
 | Column     | A widget that holds and displays your content in a straight line from top to bottom. | `Column(...)` |  |  |
 | Row     | A widget that shows things side-by-side. | `Row(...)` |  |  |
