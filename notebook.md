@@ -67,7 +67,17 @@
 |      | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
 |      | Changing how a built-in or inherited function behaves. | `@override` |  |  |
 |      | A function that does not return a value. | `void printMessage() {}` |  |  |
-||||||
+
+
+
+
+
+
+
+
+| Term | Definition and Description | Base Structure | Real Life Example | App Example |
+| Algorithms | Define step by step processes to follow when completing a task or solving a problem | no syntax | Make a grilled cheese | Verify user |
+| Sequencing | Define an order for when steps in an algorithm are completed | Follows 1, 2, 3 | which step comes first in making a grilled cheese | Get bread, add butter, add cheese |
 
 
 
